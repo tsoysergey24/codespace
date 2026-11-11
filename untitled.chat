@@ -2,22 +2,22 @@
   "messages": [],
   "users": {
     "hidden::jupyter_ai_system": {
-      "display_name": "System",
       "name": "System",
-      "avatar_url": null,
-      "initials": null,
-      "bot": true,
-      "username": "hidden::jupyter_ai_system",
-      "color": null
-    },
-    "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": {
-      "username": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona",
-      "display_name": "OpenCode",
+      "display_name": "System",
       "initials": null,
       "color": null,
-      "bot": true,
+      "username": "hidden::jupyter_ai_system",
+      "avatar_url": null,
+      "bot": true
+    },
+    "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": {
+      "name": "OpenCode",
+      "initials": null,
+      "display_name": "OpenCode",
+      "color": null,
+      "username": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona",
       "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_acp_client%3A%3AOpenCodeAcpPersona",
-      "name": "OpenCode"
+      "bot": true
     }
   },
   "attachments": {},

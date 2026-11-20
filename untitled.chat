@@ -1,30 +1,30 @@
 {
   "messages": [],
   "users": {
-    "hidden::jupyter_ai_system": {
-      "name": "System",
-      "display_name": "System",
-      "initials": null,
-      "color": null,
-      "username": "hidden::jupyter_ai_system",
-      "avatar_url": null,
-      "bot": true
-    },
     "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": {
+      "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_acp_client%3A%3AOpenCodeAcpPersona",
+      "display_name": "OpenCode",
+      "username": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona",
       "name": "OpenCode",
       "initials": null,
-      "display_name": "OpenCode",
       "color": null,
-      "username": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona",
-      "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_acp_client%3A%3AOpenCodeAcpPersona",
       "bot": true
+    },
+    "hidden::jupyter_ai_system": {
+      "avatar_url": null,
+      "bot": true,
+      "username": "hidden::jupyter_ai_system",
+      "color": null,
+      "name": "System",
+      "display_name": "System",
+      "initials": null
     }
   },
   "attachments": {},
   "metadata": {
-    "id": "2c769d02-80b0-4003-a676-a2b1351b0e4d",
     "acp_session_ids": {
       "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": "ses_eab3a5e38ffezvSMhvNIsxBZ8E"
-    }
+    },
+    "id": "2c769d02-80b0-4003-a676-a2b1351b0e4d"
   }
 }
